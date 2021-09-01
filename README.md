@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthdhake
 - 👀 I’m interested in android and web development 
 
-![](https://komarev.com/ghpvc/?username=parthdhake&label=PROFILE+VIEWS&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=parthdhake&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 <!---
 parthdhake/parthdhake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
